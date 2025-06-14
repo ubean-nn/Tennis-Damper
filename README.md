@@ -3,7 +3,7 @@
 ## Project Overview
 I decided to start a 24‑hour prototype challenge to create a vibration damper for a tennis racket, aiming to replicate the performance of commercial silicone dampers. The goal: design and manufacture a functional damper, that's cheaper than a traditional one, using my 3D-printer.
 
-####**What is a damper though and why do people use them????**
+#### **What is a damper though and why do people use them????**
 
 A tennis racket damper is a small object, that come in many different shapes and designs, players use on thier rackets that is made from soft flexible materials like silicone or rubber. When you hit a tennis ball, the strings and frame of the racket vibrate. Some of these vibrations travel down the handle and into the player’s hand and arm. **A damper helps absorb or lessen the “ping” and sharp vibrations from the strings**. Many players find this far more comfortable to play with, however its completely up to personal preference wether it matters or not. Me personally, find using a damper much more comfortable but it is not vitale to me.
 
