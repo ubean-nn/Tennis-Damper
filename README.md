@@ -9,11 +9,11 @@ I decided to start a 24‑hour prototype challenge to create a vibration damper 
 ## Material Testing & Printing Parameters
 The first challenge was working with the TPU filament, which behaves differently based on print temperature and infill settings. Although the manufacturer-recommended printing temperature was 200 °C, I encountered persistent jams. By increasing the temperature to 210 °C, the printing process became stable and reliable, allowing for further experimentation. Additionally, I tested various infill percentages—from 70 % down to 0 %—and observed that lowering the infill increased elasticity. While a 5 % infill provided a suitably flexible print that fit well on the racket, it lacked the density necessary for effective vibration damping. This led to the decision to integrate silicone to enhance structural integrity.
 
-!(images/IMG_0321.jpg)
+![Alt](images/IMG_0321.jpg)
 
 As you can see in the image above, I experimented with various infill percentages, printing temperatures, and infill patterns. In my initial iterations, I tried a “gyroid” infill pattern, which looks like this: 
 
-!(images/maxresdefault-3922872228.jpg)
+![Alt](images/maxresdefault-3922872228.jpg)
 
 Later, I switched to a TPMS-D (Triply Periodic Minimal Surface) cell pattern, which was new to me and turned out to be much better suited for my future plans of injecting silicone into the damper(No picture avalible but it looks simalar to the gyroid design).
 
