@@ -27,11 +27,15 @@ Luckily this was easy to 3d model and helped me with my self-assigned time const
 ## Material Testing & Printing Parameters
 The first challenge was working with the TPU filament, which behaves differently based on print temperature and infill settings. So I ran trials changing one variable at a time such as the printing temperature, infill percentage, and even infill pattern. Although the manufacturer-recommended printing temperature was 200 °C, I encountered persistent jams. By increasing the temperature to 210 °C, the printing process became stable and reliable, allowing for further experimentation. As for infill percentages, I tested with a range from 70 % down to 0 % and observed that lowering the infill increased malluability.
 
-![My Trials](images/IMG_0321.jpg)
+<p align="center">
+  <img src="images/IMG_0321.jpg" alt="My trials" width="600">
+</p>
 
 As you can see in the image above, I experimented with various infill percentages, printing temperatures, and infill patterns. In my initial iterations, I tried a “gyroid” infill pattern, which looks like this: 
 
-![Gyroid pattern](images/maxresdefault-3922872228.jpg)
+<p align="center">
+  <img src="images/maxresdefault-3922872228.jpg" alt="My trials" width="600">
+</p>
 
 Later, I switched to a TPMS-D (Triply Periodic Minimal Surface) cell pattern, which was new to me and turned out to be much better suited for my future plans of injecting silicone into the damper(No picture avalible but it looks simalar to the gyroid design).
 
