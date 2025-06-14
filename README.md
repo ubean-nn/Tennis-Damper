@@ -5,7 +5,7 @@
 </p>
 
 ## Project Overview
-I decided to start a 24‑hour prototype challenge to create a vibration damper for a tennis racket, aiming to replicate the performance of commercial silicone dampers. The goal: design and manufacture a functional damper, that's cheaper than a traditional one, using my 3D-printer.
+I decided to prototype for 24-hours to create a vibration damper for a tennis racket, aiming to replicate the performance of commercial silicone dampers. The goal: design and manufacture a functional damper, that's cheaper than a traditional one, using my 3D-printer.
 
 <p align="center"></strong> What is a damper though and why do people use them????
 
