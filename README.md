@@ -1,9 +1,13 @@
 # 🎾 3D‑Printed Tennis Racket Damper – Rapid Prototype
-![A Tennis Racket Damper](images/tenis-dampener-700x525-540040968.jpg)
+
+<p align="center">
+  <img src="images/tenis-dampener-700x525-540040968.jpg" alt="A Tennis Racket Damper" width="300">
+</p>
+
 ## Project Overview
 I decided to start a 24‑hour prototype challenge to create a vibration damper for a tennis racket, aiming to replicate the performance of commercial silicone dampers. The goal: design and manufacture a functional damper, that's cheaper than a traditional one, using my 3D-printer.
 
-#### **What is a damper though and why do people use them????**
+<p align="center"></strong> #### **What is a damper though and why do people use them????**
 
 A tennis racket damper is a small object, that come in many different shapes and designs, players use on thier rackets that is made from soft flexible materials like silicone or rubber. When you hit a tennis ball, the strings and frame of the racket vibrate. Some of these vibrations travel down the handle and into the player’s hand and arm. **A damper helps absorb or lessen the “ping” and sharp vibrations from the strings**. Many players find this far more comfortable to play with, however its completely up to personal preference wether it matters or not. Me personally, find using a damper much more comfortable but it is not vitale to me.
 
@@ -33,7 +37,7 @@ Overall, I found that the higher the printing temperature, the firmer the result
 ## Silicone Injection Process
 As mentioned earlier, my experiments with different TPU variables showed that a lower infill percentage produced a more flexible print, making the damper feel much closer to the original silicone version I was using. While achieving this flexibility was one of my goals, the lack of internal material meant there was little to no actual vibration damping happening. Knowing this, I explored solutions for filling the damper’s interior with another material. While searching my garage, I found some silicone and decided to try a silicone-injected approach. Since the nozzle on the original silicone bottle was far too large for these small parts, I first transferred the silicone into a syringe to inject it into the partial 3D print. However, even the syringe tip was a bit too big for the small channels in the print. To solve this, I designed and 3D-printed a custom nozzle that fit onto the syringe, making the injection size much smaller and allowing for more precise work at the scale of the 3D print. 
 
-<p align="center"><strong>![Rotating STL](images/ImageToStl.com_syringe+jawn.stl.gif)
+![Rotating STL](images/ImageToStl.com_syringe+jawn.stl.gif)
 
 Pausing the print for manual injection required careful timing and precision. While several prints failed due to poor layer adhesion or contamination, a few did work, producing a silicone-filled structure that felt promising during initial tests(bouncing a tennis ball on the racket and feeling for vibrations and audible 'pinging' noises).
 
