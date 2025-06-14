@@ -7,19 +7,22 @@
 ## Project Overview
 I decided to start a 24‑hour prototype challenge to create a vibration damper for a tennis racket, aiming to replicate the performance of commercial silicone dampers. The goal: design and manufacture a functional damper, that's cheaper than a traditional one, using my 3D-printer.
 
-<p align="center"></strong> #### **What is a damper though and why do people use them????**
+<p align="center"></strong> What is a damper though and why do people use them????
 
 A tennis racket damper is a small object, that come in many different shapes and designs, players use on thier rackets that is made from soft flexible materials like silicone or rubber. When you hit a tennis ball, the strings and frame of the racket vibrate. Some of these vibrations travel down the handle and into the player’s hand and arm. **A damper helps absorb or lessen the “ping” and sharp vibrations from the strings**. Many players find this far more comfortable to play with, however its completely up to personal preference wether it matters or not. Me personally, find using a damper much more comfortable but it is not vitale to me.
 
 ## My Design Process
 The design I decided to follow for my testing trials was based off of a simple HEAD damper I have, which is pictured below:
 
-![Wilson Damper inspiration](images/id-11134207-7r991-lome3311m72y4f-616082508.png)
+<p align="center">
+  <img src="images/id-11134207-7r991-lome3311m72y4f-616082508.png" alt="A Tennis Racket Damper" width="300">
+</p>
 
 Luckily this was easy to 3d model and helped me with my self-assigned time constraints. Later, you’ll see that I developed a modular, three-piece system—basically three of these head dampers—modeled after an [ADV tennis dampener](https://www.amazon.com/ADV-Tennis-Vibration-Absorbers-Technology/dp/B079R5PFKF?crid=2HOLDI99ZP8LE&dib=eyJ2IjoiMSJ9.nrf1_I_wBt4OMJR2QmMHFwiyHComH2TPeKWDk4HgCgaqgOa9e66G0WJ9m1hWSQ3CxNUOMamsThspIAVutDxP4-xiRcyWU4JpfraR9oxB_3m1eg4uy1FRydYfywwREzE3Nco303d9aOJsF7Huzspe-Yq91A3zEsG1ZFTx22mkbA5deWTQAxXfYtTgLyqdxHDKI-ia9cl6NL2I1Ka8e1BHbFXZWELs-TxzsSDZHAlHO8AJdQzs2_fZp7B_67NdX26NwRDYhpJiOKYL72Pn8q1wQ8dd0MP6utpUf1SkKi7tU2A.dKvL05d-yMK-eiL2FwurFMbQuPTEdOb1-8-ebDnk9N0&dib_tag=se&keywords=tennis%2Bdamper&qid=1749863405&sprefix=tennis%2Bdamper%2Caps%2C123&sr=8-17&th=1) design I discovered online. I read that the [ADV dampener](https://www.amazon.com/ADV-Tennis-Vibration-Absorbers-Technology/dp/B079R5PFKF?crid=2HOLDI99ZP8LE&dib=eyJ2IjoiMSJ9.nrf1_I_wBt4OMJR2QmMHFwiyHComH2TPeKWDk4HgCgaqgOa9e66G0WJ9m1hWSQ3CxNUOMamsThspIAVutDxP4-xiRcyWU4JpfraR9oxB_3m1eg4uy1FRydYfywwREzE3Nco303d9aOJsF7Huzspe-Yq91A3zEsG1ZFTx22mkbA5deWTQAxXfYtTgLyqdxHDKI-ia9cl6NL2I1Ka8e1BHbFXZWELs-TxzsSDZHAlHO8AJdQzs2_fZp7B_67NdX26NwRDYhpJiOKYL72Pn8q1wQ8dd0MP6utpUf1SkKi7tU2A.dKvL05d-yMK-eiL2FwurFMbQuPTEdOb1-8-ebDnk9N0&dib_tag=se&keywords=tennis%2Bdamper&qid=1749863405&sprefix=tennis%2Bdamper%2Caps%2C123&sr=8-17&th=1), with its design spanning multiple strings, was intended to aggressively dampen racket vibrations. That’s where I drew inspiration for my three-piece system.
 
-![ADV Damper](images/adv.png)
-
+<p align="center">
+  <img src="images/adv.png" alt="A Tennis Racket Damper" width="300">
+</p>
 
 ## Material Testing & Printing Parameters
 The first challenge was working with the TPU filament, which behaves differently based on print temperature and infill settings. So I ran trials changing one variable at a time such as the printing temperature, infill percentage, and even infill pattern. Although the manufacturer-recommended printing temperature was 200 °C, I encountered persistent jams. By increasing the temperature to 210 °C, the printing process became stable and reliable, allowing for further experimentation. As for infill percentages, I tested with a range from 70 % down to 0 % and observed that lowering the infill increased malluability.
